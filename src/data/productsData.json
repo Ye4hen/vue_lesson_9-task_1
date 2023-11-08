@@ -1,0 +1,154 @@
+[
+	{
+		"id": 1,
+		"title": "Телевізори",
+		"list": [
+			{
+				"id": 1,
+				"name": "Телевізор iFFALCON iFF43U62",
+				"price": 13000,
+				"image": "https://content1.rozetka.com.ua/goods/images/big/322266741.jpg",
+				"brand": "iFFALCON",
+				"link": "https://rozetka.com.ua/iffalcon-iff43u62/p366804339/"
+			},
+			{
+				"id": 2,
+				"name": "Телевізор Samsung QE55Q60CAUXUA",
+				"price": 36000,
+				"image": "https://content1.rozetka.com.ua/goods/images/big/364929632.jpg",
+				"brand": "Samsung",
+				"link": "https://rozetka.com.ua/samsung-qe55q60cauxua/p373026732/"
+			},
+			{
+				"id": 3,
+				"name": "Телевізор LG 50UR78006LK",
+				"price": 20000,
+				"image": "https://content1.rozetka.com.ua/goods/images/big/351024741.jpg",
+				"brand": "LG",
+				"link": "https://rozetka.com.ua/lg_50ur78006lk/p386410440/"
+			},
+			{
+				"id": 4,
+				"name": "Телевізор Samsung UE43CU7100UXUA",
+				"price": 17500,
+				"image": "https://content.rozetka.com.ua/goods/images/big/364929547.jpg",
+				"brand": "Samsung",
+				"link": "https://rozetka.com.ua/samsung-ue43cu7100uxua/p372795270/"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"title": "Ноутбуки",
+		"list": [
+			{
+				"id": 1,
+				"name": "Laptop Acer Aspire 7",
+				"price": 33000,
+				"image": "https://f00.esfr.pl/foto/4/109561976897/a25d217e2bc2cce2c689fcb9947a576e/acer-laptop-aspire-7-i5-16gb-512ssd-3050-w11,109561976897_3.jpg",
+				"brand": "Acer",
+				"link": "https://rozetka.com.ua/400877043/p400877043/"
+			},
+			{
+				"id": 2,
+				"name": "Laptop ASUS Vivobook 15",
+				"price": 17500,
+				"image": "https://f00.esfr.pl/foto/4/120938790593/84f293811195084d78c643b4810cb00c/asus-laptop-x1502-i5-16gb-512ssd-w11,120938790593_3.jpg",
+				"brand": "ASUS",
+				"link": "https://rozetka.com.ua/asus-90nb0ty6-m040w0/p379852182/"
+			},
+			{
+				"id": 3,
+				"name": "Laptop Lenovo IdeaPad Slim 3",
+				"price": 23000,
+				"image": "https://f00.esfr.pl/foto/3/131607446305/21944f19307c3af4d4628afdbe9d6520/lenovo-laptop-ip3s-r5-16gb-512gb-w11,131607446305_3.jpg",
+				"brand": "Lenovo",
+				"link": "https://rozetka.com.ua/lenovo-82xq009hra/p389016597/"
+			},
+			{
+				"id": 4,
+				"name": "Laptop Acer Aspire 3",
+				"price": 20500,
+				"image": "https://content2.rozetka.com.ua/goods/images/big/357266551.jpg",
+				"brand": "Acer",
+				"link": "https://rozetka.com.ua/acer-nxad0eu01h/p391395258/"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"title": "Телефони",
+		"list": [
+			{
+				"id": 1,
+				"name": "Мобільний телефон Samsung Galaxy A24",
+				"price": 9000,
+				"image": "https://content1.rozetka.com.ua/goods/images/big/328128600.jpg",
+				"brand": "Samsung",
+				"link": "https://rozetka.com.ua/samsung-sm-a245flgvsek/p375224013/"
+			},
+			{
+				"id": 2,
+				"name": "Мобільний телефон Apple iPhone 15",
+				"price": 42500,
+				"image": "https://content1.rozetka.com.ua/goods/images/big/364623744.jpg",
+				"brand": "Apple",
+				"link": "https://rozetka.com.ua/apple-iphone-15-128gb-black/p395460480/"
+			},
+			{
+				"id": 3,
+				"name": "Мобільний телефон Samsung Galaxy A34",
+				"price": 15500,
+				"image": "https://content1.rozetka.com.ua/goods/images/big/319594401.jpg",
+				"brand": "Samsung",
+				"link": "https://rozetka.com.ua/samsung-sm-a346elgesek/p370568073/"
+			},
+			{
+				"id": 4,
+				"name": "Мобільний телефон Motorola G54",
+				"price": 8500,
+				"image": "https://content1.rozetka.com.ua/goods/images/big/366854239.jpg",
+				"brand": "Motorola",
+				"link": "https://rozetka.com.ua/motorola-1002723/p396820071/"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"title": "Монітори",
+		"list": [
+			{
+				"id": 1,
+				"name": "Монітор 23.8' Acer Nitro",
+				"price": 6000,
+				"image": "https://content1.rozetka.com.ua/goods/images/big/366948863.jpg",
+				"brand": "Acer",
+				"link": "https://hard.rozetka.com.ua/acer-umqv0ee304/p396691521/"
+			},
+			{
+				"id": 2,
+				"name": "Монітор 23.8' Asus TUF Gaming",
+				"price": 5000,
+				"image": "https://content1.rozetka.com.ua/goods/images/big/360055265.jpg",
+				"brand": "Asus",
+				"link": "https://hard.rozetka.com.ua/asus-90lm08f0-b01170/p391681341/"
+			},
+			{
+				"id": 3,
+				"name": "Монітор 28' Samsung Odyssey G7",
+				"price": 20000,
+				"image": "https://content.rozetka.com.ua/goods/images/big/322631323.jpg",
+				"brand": "Samsung",
+				"link": "https://hard.rozetka.com.ua/samsung-ls28bg702eixua/p372354219/"
+			},
+			{
+				"id": 4,
+				"name": "Монітор 23.8' Asus VG249Q ",
+				"price": 8200,
+				"image": "https://content.rozetka.com.ua/goods/images/big/20684949.jpg",
+				"brand": "Asus",
+				"link": "https://hard.rozetka.com.ua/asus_90lm05e0_b03170/p171456965/"
+			}
+		]
+	}
+]

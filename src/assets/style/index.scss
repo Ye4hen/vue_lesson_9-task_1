@@ -1,0 +1,180 @@
+*,
+*::before,
+*::after{
+padding: 0;
+margin: 0;
+border: 0;
+box-sizing: inherit;
+}
+html{
+font-size:100%;
+box-sizing:border-box;
+}
+body{
+padding: 0;
+margin: 0;
+line-height: 1;
+font-size: 1rem;
+color:#000;
+background:#fff;
+}
+
+a,
+a:visited,
+a:active{
+text-decoration: none;
+}
+
+img{
+vertical-align: top;
+}
+a,
+button,
+input,
+label,
+textarea,
+::placeholder,
+p,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+font-size: inherit;
+font-weight: inherit;
+color: inherit;
+}
+a,
+button,
+svg{
+cursor: pointer;
+}
+
+/*===========================================================================================*/
+
+.home {
+	 
+	&__component {
+	}
+
+	&__title {
+		margin-bottom: 20px;
+	}
+}
+
+.list {
+	display: grid;
+	margin-top: 10px;
+}
+
+.contacts__page{
+
+	h2, ol{
+		padding-bottom: 15px;
+	}
+}
+
+.shop {
+	h2{
+		&:not(:last-child){
+			margin-bottom: 15px;
+		}
+	}
+	&__list {
+		list-style: none;
+		display: grid;
+		gap: 10px;
+	}
+
+	&__item {
+		padding: 5px;
+        font-weight: bold;
+        color: #2c3e50;
+        transition: all 0.3s;
+        border-radius: 12px;
+        border: 3px solid transparent;
+		text-align: center;
+		cursor: pointer;
+        @media (any-hover: hover) {
+            &:hover {
+                color: red;
+                border: 3px solid red;
+            }
+        }
+	}
+}
+
+.products {
+
+	&__buttons{
+		margin-top: 30px;
+		display: grid;
+		gap: 20px;
+	}
+	&__button{
+		padding: 15px;
+		border-radius: 12px;
+		color: #000;
+		background-color: #fff;
+		border: 1px solid #000;
+		transition: all 0.3s;
+		@media(any-hover:hover){
+			&:hover{
+				color: #fff;
+				background-color: #000;
+			}
+		}
+	}
+
+	&__list {
+		list-style: none;
+		display: grid;
+		gap: 30px;
+	}
+
+	&__item {
+		max-width: 500px;
+		border-radius: 24px;
+		padding: 10px;
+		display: flex;
+		align-items: center;
+		gap: 10px;
+		transition: box-shadow 0.3s;
+		@media(any-hover:hover){
+			&:hover{
+				box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+			}
+		}
+	}
+
+	&__image {
+		img{
+			width: 150px;
+		}
+	}
+
+	&__info {
+		font-size: 20px;
+		font-weight: 700;
+	}
+
+	&__name {
+		&:not(:last-child){
+			margin-bottom: 15px;
+		}
+	}
+
+	&__title-link {
+		@media(any-hover:hover){
+			&:hover{
+				text-decoration: underline;
+			}
+		}
+	}
+
+	&__price {}
+}
